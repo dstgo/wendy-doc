@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /logo.png
-heroText: Wilson Panel
+heroText: Wendy Panel
 tagline: 功能强大的开源分布式游戏服务端管理面板
 actions:
   - text: 使用指南 💡

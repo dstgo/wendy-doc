@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Home
 heroImage: /logo.png
-heroText: Wilson Panel
+heroText: Wendy Panel
 tagline: a powerful open source distributed game server management panel
 actions:
   - text: User Guide 💡

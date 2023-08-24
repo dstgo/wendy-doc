@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar";
 import { enSidebar, zhSidebar } from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://dstgo.cn",
+  hostname: "https://wendy.dstgo.cn",
 
   author: {
     name: "246859",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "dstgo/wilson",
+  repo: "dstgo/wendy",
 
   docsDir: "src",
 

@@ -7,13 +7,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Wilson Panel",
-      description: "Wilson Panel Document",
+      title: "Wendy Panel",
+      description: "Wendy Panel Document",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "Wilson Panel",
-      description: "Wilson Panel 文档",
+      title: "Wendy Panel",
+      description: "Wendy Panel 文档",
     },
   },
 
