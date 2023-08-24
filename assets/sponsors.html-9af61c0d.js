@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as s,c as t,a as e,b as r}from"./app-ea7ca29a.js";const a={},c=e("h1",{id:"赞助",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#赞助","aria-hidden":"true"},"#"),r(" 赞助")],-1),n=[c];function _(d,i){return s(),t("div",null,n)}const f=o(a,[["render",_],["__file","sponsors.html.vue"]]);export{f as default};

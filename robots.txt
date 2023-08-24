@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://dstgo.cn/sitemap.xml
+Sitemap: https://wendy.dstgo.cn/sitemap.xml

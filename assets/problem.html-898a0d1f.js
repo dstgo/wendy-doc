@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as r,a as e,b as a}from"./app-ea7ca29a.js";const c={},s=e("h1",{id:"常见问题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#常见问题","aria-hidden":"true"},"#"),a(" 常见问题")],-1),n=[s];function _(d,i){return o(),r("div",null,n)}const m=t(c,[["render",_],["__file","problem.html.vue"]]);export{m as default};
