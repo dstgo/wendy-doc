@@ -1,4 +1,4 @@
-# Wilson Panel Documentation
+# Wendy Panel Documentation
 
 ### dev
 ```sh
